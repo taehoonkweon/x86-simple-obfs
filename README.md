@@ -1,7 +1,12 @@
 # Simple obfuscation program
 
-Program description:  
-This program obfuscates the string "hello world".  
+## Intro:  
+This program obfuscates the string "hello world" with XOR operation.
+After the obfuscation, the original string is recovered by XOR operaion.
 
-File description:
+## Working environment:
+- VMware Workstaion 12 Player
+- Ubuntu 14.04.5 LTS
+
+## File description:
 
