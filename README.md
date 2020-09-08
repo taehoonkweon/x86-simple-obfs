@@ -2,7 +2,7 @@
 
 ## Intro:  
 This program obfuscates the string "hello world" with XOR operation.  
-After the obfuscation, the original string is recovered by XOR operaion.
+After the obfuscation, the obfuscated string is recovered to "hello world" by XOR operaion.
 
 ## Working environment:
 - VMware Workstaion 12 Player
