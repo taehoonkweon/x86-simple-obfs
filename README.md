@@ -1,7 +1,7 @@
 # Simple obfuscation program
 
 ## Intro:  
-This program obfuscates the string "hello world" with XOR operation.
+This program obfuscates the string "hello world" with XOR operation.  
 After the obfuscation, the original string is recovered by XOR operaion.
 
 ## Working environment:
