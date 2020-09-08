@@ -1,2 +1,7 @@
-# x86-simple-obfs
-Reverse Engineering / Obfuscation with x86 assembly
+# Simple obfuscation program
+
+Program description:  
+This program obfuscates the string "hello world".  
+
+File description:
+
