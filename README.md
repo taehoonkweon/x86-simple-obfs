@@ -7,6 +7,7 @@ After the obfuscation, the obfuscated string is recovered back to original strin
 ## Working environment:
 - VMware Workstaion 12 Player
 - Ubuntu 14.04.5 LTS
+- gdb-7.7.1
 
 ## File description:
 
