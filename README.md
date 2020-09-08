@@ -1,4 +1,4 @@
-# Simple obfuscation program
+# Simple obfuscation assembly program
 
 ## Intro:  
 This program obfuscates the string "hello world" with XOR operation.  
