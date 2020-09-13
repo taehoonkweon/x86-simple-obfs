@@ -12,4 +12,10 @@ by repeating XOR operation with the same value that we used to obfuscate.
 - gdb-7.7.1
 
 ## Files description:
-
+- Report.pdf: report about obfuscation and recovery process
+- obfus.asm: x-86 assembly code file that manages obfuscation
+- obfus.o: object file of obfus.asm
+- obfus.out: executable file of obfus.asm (a.out in report)
+- recov.asm: x-86 assembly code file that manages recovery
+- recov.o: object file of recov.asm
+- recov.out: executable file of recov.asm (a.out in report)
